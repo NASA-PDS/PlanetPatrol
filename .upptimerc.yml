@@ -1,36 +1,48 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# Planet Patrol
+# =============
+#
+# Upptime-based monitoring using GitHub Actions
+
+---
+
+owner: nasa-pds-engineering-node
+repo: PlanetPatrol
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+    -
+        name: 🏡 PDS public home page
+        url: https://pds.nasa.gov/
+    -
+        name: ⚙️ PDS API
+        url: https://pds.nasa.gov/services/search/search?wt=json&q=product_class:Product_Collection
+        
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    # We do not have a custom domain, so leaving `cname` blank:
+    # cname:
+    # Also, since we do not have a custom domain, so we need this `baseUrl`:
+    baseUrl: /planet-patrol
+    logoUrl: https://raw.githubusercontent.com/nasa-pds-engineering-node/PlanetPatrol/master/assets/planet-patrol-logo.svg
+    name: Planet Patrol
+    introTitle: '**Planet Patrol** is a monitoring system for the Planetary Data System (demo)'
+    introMessage: >
+        The status of various Planetary Data System web sites, APIs, and other network
+        endpoints is presented below.
+    theme: light
+    navbar:
+        -
+            title: Status
+            href: /
+        -
+            title: Engineering Node
+            href: https://pds-engineering.jpl.nasa.gov
+        -
+            title: GitHub
+            href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+
+...
+
+# -*- mode: YAML; tab-width: 4 -*-
