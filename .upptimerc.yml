@@ -15,14 +15,15 @@ sites:
     -
         name: ⚙️ PDS API
         url: https://pds.nasa.gov/services/search/search?wt=json&q=product_class:Product_Collection
-        
+
 
 status-website:
     # We do not have a custom domain, so leaving `cname` blank:
     # cname:
     # Also, since we do not have a custom domain, so we need this `baseUrl`:
-    baseUrl: /planet-patrol
-    logoUrl: https://raw.githubusercontent.com/nasa-pds-engineering-node/PlanetPatrol/master/assets/planet-patrol-logo.svg
+    baseUrl: /PlanetPatrol
+    # Logo courtesy of Wojciech Ciecierski via Pixabay
+    logoUrl: https://raw.githubusercontent.com/nasa-pds-engineering-node/PlanetPatrol/master/assets/planet-7123123.svg
     name: Planet Patrol
     introTitle: '**Planet Patrol** is a monitoring system for the Planetary Data System (demo)'
     introMessage: >
