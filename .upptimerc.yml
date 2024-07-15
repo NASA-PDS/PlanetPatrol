@@ -10,11 +10,17 @@ repo: PlanetPatrol
 
 sites:
     -
-        name: 🏡 PDS public home page
+        name: 🏡 PDS Website
         url: https://pds.nasa.gov/
     -
-        name: ⚙️ PDS API
+        name: :database: PDS Legacy Registry
         url: https://pds.nasa.gov/services/search/search?wt=json&q=product_class:Product_Collection
+        __dangerous__body_degraded: '"numFound": 0'
+
+    -
+        name: :mag: PDS Search API
+        url: https://pds.nasa.gov/api/search/1/products
+        __dangerous__body_degraded: '"hits": 338711'
 
 
 status-website:
