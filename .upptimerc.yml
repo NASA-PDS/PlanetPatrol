@@ -20,7 +20,9 @@ sites:
     -
         name: :mag: PDS Search API
         url: https://pds.nasa.gov/api/search/1/products
-        __dangerous__body_degraded: '"hits": 338711'
+        __dangerous__body_degraded: '"hits": 338711' # Note this value is super super specific right now as our system is partially loaded
+                                                     # we probably need to figure out a way to do some sort of range value here
+                                                     # e.g. hits < 2000000
 
 
 status-website:
