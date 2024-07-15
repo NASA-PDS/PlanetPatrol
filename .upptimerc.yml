@@ -15,7 +15,7 @@ sites:
     -
         name: 💾 PDS Legacy Registry
         url: https://pds.nasa.gov/services/search/search?wt=json&q=product_class:Product_Collection
-        __dangerous__body_degraded: '"numFound": 0'
+        __dangerous__body_degraded: '"numFound": 4105' # Testing to see how degraded works
 
     -
         name: 🔍 PDS Search API
