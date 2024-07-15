@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 222,
-    "timeWeek": 222,
-    "timeMonth": 222,
-    "timeYear": 222,
+    "time": 218,
+    "timeDay": 218,
+    "timeWeek": 218,
+    "timeMonth": 218,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 318,
-    "timeWeek": 318,
-    "timeMonth": 318,
-    "timeYear": 318,
+    "time": 308,
+    "timeDay": 308,
+    "timeWeek": 308,
+    "timeMonth": 308,
+    "timeYear": 308,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pds.nasa.gov.ico",
     "slug": "pds-search-api",
     "status": "degraded",
-    "uptime": "2.38%",
-    "uptimeDay": "2.38%",
-    "uptimeWeek": "2.38%",
-    "uptimeMonth": "2.38%",
-    "uptimeYear": "2.38%",
-    "time": 238,
-    "timeDay": 238,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "uptime": "2.29%",
+    "uptimeDay": "2.29%",
+    "uptimeWeek": "2.29%",
+    "uptimeMonth": "2.29%",
+    "uptimeYear": "2.29%",
+    "time": 209,
+    "timeDay": 209,
+    "timeWeek": 209,
+    "timeMonth": 209,
+    "timeYear": 209,
     "dailyMinutesDown": {
-      "2024-07-15": 264
+      "2024-07-15": 274
     }
   },
   {
@@ -66,16 +66,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1324,
-    "timeDay": 1324,
-    "timeWeek": 1324,
-    "timeMonth": 1324,
-    "timeYear": 1324,
+    "time": 1333,
+    "timeDay": 1333,
+    "timeWeek": 1333,
+    "timeMonth": 1333,
+    "timeYear": 1333,
     "dailyMinutesDown": {}
   },
   {
     "name": "🩺 Purposefully down test",
-    "url": "https://pds.nasa.gov/non/exist/ent",
+    "url": "https://pds.nasa.gov/non/exist/ent?nothing=nada",
     "icon": "https://icons.duckduckgo.com/ip3/pds.nasa.gov.ico",
     "slug": "purposefully-down-test",
     "status": "down",
@@ -84,13 +84,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 74,
-    "timeDay": 74,
-    "timeWeek": 74,
-    "timeMonth": 74,
-    "timeYear": 74,
+    "time": 145,
+    "timeDay": 145,
+    "timeWeek": 145,
+    "timeMonth": 145,
+    "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-07-15": 0
+      "2024-07-15": 11
     }
   }
 ]
