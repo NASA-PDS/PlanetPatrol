@@ -5,35 +5,35 @@
 
 ---
 
-owner: nasa-pds-engineering-node
+owner: nasa-pds
 repo: PlanetPatrol
 
 sites:
     -
         name: 🏡 PDS Website
         url: https://pds.nasa.gov/
-        assignees: # Users to assign downtime issues (optional)
-          - jordanpadams
-          - viviant100
-          - c-suh
+        assignees:
+            - jordanpadams
+            - viviant100
+            - c-suh
     -
         name: 💾 PDS Legacy Registry
         url: https://pds.nasa.gov/services/search/search?wt=json&q=product_class:Product_Collection
-        assignees: # Users to assign downtime issues (optional)
-          - jordanpadams
-          - viviant100
-          - c-suh
-          - rchenatjpl
-        __dangerous__body_degraded: '"numFound":0' # Testing to see how degraded works
+        assignees:
+            - jordanpadams
+            - viviant100
+            - c-suh
+            - rchenatjpl
+        __dangerous__body_degraded: '"numFound":0'  # Testing to see how degraded works
 
     -
         name: 🔍 PDS Search API
         url: https://pds.nasa.gov/api/search/1/products
         assignees: # Users to assign downtime issues (optional)
-          - jordanpadams
-          - viviant100
-          - tloubrieu-jpl
-          - sjoshi-jpl
+            - jordanpadams
+            - viviant100
+            - tloubrieu-jpl
+            - sjoshi-jpl
         __dangerous__body_degraded: '"hits":338711' # Note this value is super super specific right now as our system is partially loaded
                                                      # we probably need to figure out a way to do some sort of range value here
                                                      # e.g. hits < 2000000
@@ -41,9 +41,9 @@ sites:
     -
         name: 🌐 planetarydata.org
         url: https://planetarydata.org
-        assignees: # Users to assign downtime issues (optional)
-          - jordanpadams
-          - nutjob4life
+        assignees:
+            - jordanpadams
+            - nutjob4life
 
 
 status-website:
@@ -52,9 +52,9 @@ status-website:
     # Also, since we do not have a custom domain, so we need this `baseUrl`:
     baseUrl: /PlanetPatrol
     # Logo courtesy of Wojciech Ciecierski via Pixabay
-    logoUrl: https://raw.githubusercontent.com/nasa-pds-engineering-node/PlanetPatrol/master/assets/planet-7123123.svg
+    logoUrl: https://raw.githubusercontent.com/nasa-pds/PlanetPatrol/master/assets/planet-7123123.svg
     name: Planet Patrol
-    introTitle: '**Planet Patrol** is a monitoring system for the Planetary Data System (demo)'
+    introTitle: '**Planet Patrol** is a monitoring system for the Planetary Data System'
     introMessage: >
         The status of various Planetary Data System web sites, APIs, and other network
         endpoints is presented below.
