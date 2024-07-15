@@ -43,7 +43,7 @@ sites:
             - jordanpadams
             - nutjob4life
     -
-        name: 🩺 Purposefully down test
+        name: 🩺 Purposefully down test 2
         url: https://pds.nasa.gov/non/exist/ent?nothing=nada
         assigness:
             - nutjob4life
