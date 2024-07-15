@@ -44,7 +44,7 @@ sites:
             - nutjob4life
     -
         name: 🩺 Purposefully down test
-        url: https://pds.nasa.gov/non/exist/ent
+        url: https://pds.nasa.gov/non/exist/ent?nothing=nada
         assigness:
             - nutjob4life
 
