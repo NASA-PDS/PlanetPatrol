@@ -25,7 +25,6 @@ sites:
             - c-suh
             - rchenatjpl
         __dangerous__body_degraded: '"numFound":0'  # Testing to see how degraded works
-
     -
         name: 🔍 PDS Search API
         url: https://pds.nasa.gov/api/search/1/products
@@ -37,12 +36,16 @@ sites:
         __dangerous__body_degraded: '"hits":338711' # Note this value is super super specific right now as our system is partially loaded
                                                      # we probably need to figure out a way to do some sort of range value here
                                                      # e.g. hits < 2000000
-
     -
         name: 🌐 planetarydata.org
         url: https://planetarydata.org
         assignees:
             - jordanpadams
+            - nutjob4life
+    -
+        name: 🩺 Purposefully down test
+        url: https://pds.nasa.gov/non/exist/ent
+        assigness:
             - nutjob4life
 
 
