@@ -10,15 +10,13 @@ You can then view the results at [the Planet Patrol website](https://nasa-pds.gi
 
 As systems go down, [issues are automatically filed and assigned](https://github.com/nasa-pds/PlanetPatrol/issues) (powered by [GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)).
 
-Email notifications, Teams messages, Slack pings, Discord integration, SMS messages, and so forth, have not yet been configured.
 
-### 🤫 Secrets
+## 🚨 Notificatios
 
-The following [repository secrets](https://github.com/nasa-pds/PlanetPatrol/settings/secrets/actions) are in use:
+Email notifications are currently being tested. They're being sent using JPL SMTP using a "service" account managed by @nutjob4life. They're allegedly going to four different addresses (the `NOTIFICATION_EMAIL_TO` secret). The documentation doesn't make it clear what the delimiter is between multiple email addresses, so we're trying commas (`,`) for now.
 
-- `GH_PAT`: a personal access token with Actions, Contents, Issues, and Workflows scopes so Planet Patrol can run
+Other notification options in the future include Teams messages, Slack pings, Discord integration, SMS messages, and so forth.
 
-And that's it for now!
 
 ## 🖥 The Software
 
