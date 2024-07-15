@@ -11,7 +11,7 @@ You can then view the results at [the Planet Patrol website](https://nasa-pds.gi
 As systems go down, [issues are automatically filed and assigned](https://github.com/nasa-pds/PlanetPatrol/issues) (powered by [GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)).
 
 
-## 🚨 Notificatios
+## 🚨 Notifications
 
 Email notifications are currently being tested. They're being sent using JPL SMTP using a "service" account managed by @nutjob4life. They're allegedly going to four different addresses (the `NOTIFICATION_EMAIL_TO` secret). The documentation doesn't make it clear what the delimiter is between multiple email addresses, so we're trying commas (`,`) for now.
 
