@@ -27,5 +27,3 @@ You can always look at [open issues](https://github.com/nasa-pds/PlanetPatrol/is
 ## 📃 License
 
 The project is licensed under the [Apache version 2](LICENSE.md) license. It's based on [Upptime](https://upptime.js.org/), which is license under the [MIT](LICENSE) license.
-
-The planet logo on the status page is the courtesy of <a href="https://pixabay.com/users/program_solaris-16735824/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7123123">Wojciech Ciecierski</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7123123">Pixabay</a>.

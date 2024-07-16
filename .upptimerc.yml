@@ -49,7 +49,7 @@ status-website:
     # cname:
     # Also, since we do not have a custom domain, so we need this `baseUrl`:
     baseUrl: /PlanetPatrol
-    logoUrl: https://github.com/NASA-PDS/nasa-pds.github.io/blob/main/_static/images/PDS_Planets.png
+    logoUrl: https://raw.githubusercontent.com/NASA-PDS/PlanetPatrol/master/assets/PDS_Planets.png
     name: Planet Patrol
     introTitle: '**Planet Patrol** is a monitoring system for the Planetary Data System'
     introMessage: >
