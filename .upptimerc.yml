@@ -11,7 +11,8 @@ repo: PlanetPatrol
 sites:
     -
         name: 🏡 PDS Website
-        url: https://pds.nasa.gov/
+        # Help avoid CloudFront and go right to the server by adding a request parameter
+        url: https://pds.nasa.gov/?cloudfront=no
         assignees:
             - jordanpadams
             - viviant100
