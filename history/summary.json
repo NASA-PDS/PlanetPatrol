@@ -1,21 +1,23 @@
 [
   {
     "name": "🏡 PDS Website",
-    "url": "https://pds.nasa.gov/",
+    "url": "https://pds.nasa.gov/?cloudfront=no",
     "icon": "https://icons.duckduckgo.com/ip3/pds.nasa.gov.ico",
     "slug": "pds-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 207,
-    "timeWeek": 243,
-    "timeMonth": 243,
-    "timeYear": 243,
-    "dailyMinutesDown": {}
+    "time": 245,
+    "timeDay": 229,
+    "timeWeek": 245,
+    "timeMonth": 245,
+    "timeYear": 245,
+    "dailyMinutesDown": {
+      "2024-07-19": 0
+    }
   },
   {
     "name": "💾 PDS Legacy Registry",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 148,
-    "timeWeek": 271,
-    "timeMonth": 271,
-    "timeYear": 271,
+    "time": 260,
+    "timeDay": 125,
+    "timeWeek": 260,
+    "timeMonth": 260,
+    "timeYear": 260,
     "dailyMinutesDown": {}
   },
   {
@@ -46,13 +48,13 @@
     "uptimeWeek": "0.11%",
     "uptimeMonth": "0.11%",
     "uptimeYear": "0.11%",
-    "time": 119,
-    "timeDay": 37,
-    "timeWeek": 119,
-    "timeMonth": 119,
-    "timeYear": 119,
+    "time": 113,
+    "timeDay": 30,
+    "timeWeek": 113,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-07-19": 908,
+      "2024-07-19": 917,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
@@ -70,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1256,
-    "timeDay": 1320,
-    "timeWeek": 1256,
-    "timeMonth": 1256,
-    "timeYear": 1256,
+    "time": 1251,
+    "timeDay": 1274,
+    "timeWeek": 1251,
+    "timeMonth": 1251,
+    "timeYear": 1251,
     "dailyMinutesDown": {}
   }
 ]
