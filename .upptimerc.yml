@@ -38,7 +38,7 @@ sites:
             - viviant100
             - tloubrieu-jpl
             - sjoshi-jpl
-        __dangerous__body_degraded: '"hits":338711' # Note this value is super super specific right now as our system is partially loaded
+        __dangerous__body_degraded: '"hits":338681' # Note this value is super super specific right now as our system is partially loaded
                                                      # we probably need to figure out a way to do some sort of range value here
                                                      # e.g. hits < 2000000
     -
