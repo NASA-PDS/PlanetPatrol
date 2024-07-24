@@ -29,7 +29,7 @@ sites:
             - viviant100
             - c-suh
             - rchenatjpl
-        __dangerous__body_degraded: '"numFound":0'  # Testing to see how degraded works
+        __dangerous__body_down: '"numFound":0'  # Testing to see how degraded works
     -
         name: 🔍 PDS Search API
         url: https://pds.nasa.gov/api/search/1/products
