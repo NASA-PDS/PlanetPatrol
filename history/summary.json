@@ -58,7 +58,7 @@
     "timeMonth": 103,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2024-07-29": 287,
+      "2024-07-29": 314,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
@@ -80,19 +80,19 @@
     "url": "https://planetarydata.org",
     "icon": "https://icons.duckduckgo.com/ip3/planetarydata.org.ico",
     "slug": "planetarydata-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1202,
-    "timeDay": 614,
-    "timeWeek": 1026,
-    "timeMonth": 1202,
-    "timeYear": 1202,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1198,
+    "timeDay": 851,
+    "timeWeek": 1032,
+    "timeMonth": 1198,
+    "timeYear": 1198,
     "dailyMinutesDown": {
-      "2024-07-29": 0
+      "2024-07-29": 26
     }
   }
 ]
