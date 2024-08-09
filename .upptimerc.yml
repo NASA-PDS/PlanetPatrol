@@ -10,7 +10,7 @@ repo: PlanetPatrol
 
 sites:
     -
-        name: PDS Website
+        name: pds.nasa.gov
         # Help avoid CloudFront and go right to the server by adding a request parameter
         url: https://pds.nasa.gov/?cloudfront=no
         assignees:
