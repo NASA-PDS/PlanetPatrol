@@ -32,7 +32,7 @@ sites:
         __dangerous__body_down: '"numFound":0'  # Testing to see how degraded works
     -
         name: PDS Search API
-        url: https://pds.nasa.gov/api/search/1/products
+        url: https://pds.nasa.gov/api/search/1/products?cloudfront=no
         assignees: # Users to assign downtime issues (optional)
             - jordanpadams
             - viviant100
