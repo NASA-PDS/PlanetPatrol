@@ -29,6 +29,8 @@ sites:
             - viviant100
             - c-suh
             - rchenatjpl
+        expectedStatusCodes:
+            - 200
         __dangerous__body_down: '"numFound":0'  # Testing to see how degraded works
     -
         name: PDS Search API
