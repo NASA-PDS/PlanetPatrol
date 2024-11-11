@@ -4,19 +4,19 @@
     "url": "https://pds.nasa.gov/?cloudfront=no",
     "icon": "https://icons.duckduckgo.com/ip3/pds.nasa.gov.ico",
     "slug": "pds-nasa-gov",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 1161,
-    "timeWeek": 420,
-    "timeMonth": 259,
-    "timeYear": 219,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 218,
+    "timeDay": 829,
+    "timeWeek": 392,
+    "timeMonth": 257,
+    "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-11-11": 0
+      "2024-11-11": 20
     }
   },
   {
