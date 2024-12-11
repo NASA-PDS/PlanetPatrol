@@ -1,7 +1,7 @@
 url: https://pds.nasa.gov/services/search/search?wt=json&q=product_class:Product_Collection
-status: down
-code: 502
-responseTime: 21451
-lastUpdated: 2024-12-11T20:53:55.158Z
+status: up
+code: 200
+responseTime: 238
+lastUpdated: 2024-12-11T21:16:14.876Z
 startTime: 2024-07-15T17:14:27.110Z
 generator: Upptime <https://github.com/upptime/upptime>
