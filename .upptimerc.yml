@@ -46,6 +46,7 @@ sites:
             - tloubrieu-jpl
         expectedStatusCodes:
             - 200
+        maxResponseTime: 5000
         __dangerous__body_down: 'PDS Database is temporarily down for maintenance'
     -
         name: PDS Search API
