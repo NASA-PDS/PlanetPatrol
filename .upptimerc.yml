@@ -31,7 +31,19 @@ sites:
             - rchenatjpl
         expectedStatusCodes:
             - 200
-        __dangerous__body_down: '"numFound":0'  # Testing to see how degraded works
+        __dangerous__body_down: '"numFound":0'
+
+    -
+        name: ds-view app (Tomcat)
+        url: https://pds.nasa.gov/ds-view/pds/viewCollection.jsp
+        assignees:
+            - jordanpadams
+            - viviant100
+            - c-suh
+            - rchenatjpl
+        expectedStatusCodes:
+            - 200
+        __dangerous__body_down: 'PDS Database is temporarily down for maintenance'
     -
         name: PDS Search API
         url: https://pds.nasa.gov/api/search/1/products?cloudfront=no
