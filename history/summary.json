@@ -70,19 +70,19 @@
     "url": "https://pds.nasa.gov/ds-view/pds/viewCollection.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/pds.nasa.gov.ico",
     "slug": "ds-view-app-tomcat",
-    "status": "down",
-    "uptime": "14.98%",
-    "uptimeDay": "14.98%",
-    "uptimeWeek": "14.98%",
-    "uptimeMonth": "14.98%",
-    "uptimeYear": "14.98%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "7.97%",
+    "uptimeDay": "7.97%",
+    "uptimeWeek": "7.97%",
+    "uptimeMonth": "7.97%",
+    "uptimeYear": "7.97%",
+    "time": 212,
+    "timeDay": 212,
+    "timeWeek": 212,
+    "timeMonth": 212,
+    "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-02-03": 3
+      "2025-02-03": 8
     }
   },
   {
