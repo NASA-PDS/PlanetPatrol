@@ -17,6 +17,7 @@ sites:
             - jordanpadams
             - viviant100
             - c-suh
+            - tloubrieu-jpl
         expectedStatusCodes:
             - 200
         # Better respond in 5 seconds:
@@ -29,6 +30,7 @@ sites:
             - viviant100
             - c-suh
             - rchenatjpl
+            - tloubrieu-jpl
         expectedStatusCodes:
             - 200
         __dangerous__body_down: '"numFound":0'
@@ -41,6 +43,7 @@ sites:
             - viviant100
             - c-suh
             - rchenatjpl
+            - tloubrieu-jpl
         expectedStatusCodes:
             - 200
         __dangerous__body_down: 'PDS Database is temporarily down for maintenance'
