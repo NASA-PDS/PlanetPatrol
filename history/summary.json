@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pds.nasa.gov.ico",
     "slug": "pds-data-set-doi-landing-pages",
     "status": "up",
-    "uptime": "3.96%",
-    "uptimeDay": "3.96%",
-    "uptimeWeek": "3.96%",
-    "uptimeMonth": "3.96%",
-    "uptimeYear": "3.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 141,
     "timeDay": 141,
     "timeWeek": 141,
     "timeMonth": 141,
     "timeYear": 141,
-    "dailyMinutesDown": {
-      "2025-02-06": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PDS Search API",
