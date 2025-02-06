@@ -10,7 +10,7 @@ repo: PlanetPatrol
 
 sites:
     -
-        name: pds.nasa.gov
+        name: pds.nasa.gov website
         # Help avoid CloudFront and go right to the server by adding a request parameter
         url: https://pds.nasa.gov/?cloudfront=no
         assignees:
@@ -23,7 +23,7 @@ sites:
         # Better respond in 5 seconds:
         maxResponseTime: 5000
     -
-        name: PDS Legacy Registry
+        name: PDS Keyword Search and DOI Search (Legacy Registry)
         url: https://pds.nasa.gov/services/search/search?wt=json&q=product_class:Product_Collection
         assignees:
             - jordanpadams
@@ -36,7 +36,7 @@ sites:
         __dangerous__body_down: '"numFound":0'
 
     -
-        name: ds-view app (Tomcat)
+        name: PDS Data Set / DOI Landing Pages
         url: https://pds.nasa.gov/ds-view/pds/viewCollection.jsp?identifier=urn%3Anasa%3Apds%3Asystem_bundle%3Adocument_pds4_standards
         assignees:
             - jordanpadams
@@ -60,7 +60,7 @@ sites:
                                                      # we probably need to figure out a way to do some sort of range value here
                                                      # e.g. hits < 2000000
     -
-        name: planetarydata.org
+        name: planetarydata.org website
         url: https://planetarydata.org
         assignees:
             - jordanpadams
