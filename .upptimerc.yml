@@ -37,7 +37,7 @@ sites:
 
     -
         name: PDS Data Set / DOI Landing Pages
-        url: https://pds.nasa.gov/ds-view/pds/viewCollection.jsp?identifier=urn%3Anasa%3Apds%3Asystem_bundle%3Adocument_pds4_standards
+        url: https://pds.nasa.gov/ds-view/pds/viewCollection.jsp?identifier=urn%3Anasa%3Apds%3Asystem_bundle%3Adocument_pds4_standards&cloudfront=no
         assignees:
             - jordanpadams
             - viviant100
@@ -46,7 +46,6 @@ sites:
             - tloubrieu-jpl
         expectedStatusCodes:
             - 200
-        maxResponseTime: 5000
         __dangerous__body_down: 'PDS Database is temporarily down for maintenance'
     -
         name: PDS Search API
