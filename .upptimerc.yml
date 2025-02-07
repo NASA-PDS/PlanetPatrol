@@ -35,20 +35,18 @@ sites:
             - 200
         __dangerous__body_down: '"numFound":0'
 
-    # Commenting out for now. We need this, but need to figure out why it keeps intermittently
-    # saying it is failing just to "fix itself" 5 minutes later
-    # -
-    #     name: PDS Data Set / DOI Landing Pages
-    #     url: https://pds.nasa.gov/ds-view/pds/viewCollection.jsp?identifier=urn%3Anasa%3Apds%3Asystem_bundle%3Adocument_pds4_standards&cloudfront=no
-    #     assignees:
-    #         - jordanpadams
-    #         - viviant100
-    #         - c-suh
-    #         - rchenatjpl
-    #         - tloubrieu-jpl
-    #     expectedStatusCodes:
-    #         - 200
-    #     __dangerous__body_down: 'PDS Database is temporarily down for maintenance'
+    -
+        name: PDS Data Set / DOI Landing Pages
+        url: https://pds.nasa.gov/ds-view/pds/viewCollection.jsp?identifier=urn%3Anasa%3Apds%3Asystem_bundle%3Adocument_pds4_standards&cloudfront=no
+        assignees:
+            - jordanpadams
+            - viviant100
+            - c-suh
+            - rchenatjpl
+            - tloubrieu-jpl
+        expectedStatusCodes:
+            - 200
+        __dangerous__body_down: 'PDS Database is temporarily down for maintenance'
     -
         name: PDS Search API
         url: https://pds.nasa.gov/api/search/1/products?cloudfront=no
