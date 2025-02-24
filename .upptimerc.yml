@@ -61,6 +61,19 @@ sites:
         __dangerous__body_degraded: '"hits":0' # Note this value is super super specific right now as our system is partially loaded
                                                      # we probably need to figure out a way to do some sort of range value here
                                                      # e.g. hits < 2000000
+    # This should be identical to `PDS Search API` above, but bypasses the WAF to see if there are
+    # any differences. In an ideal world, there wouldn't be any.
+    -
+        name: Direct PDS Search API
+        url: https://pds.mcp.nasa.gov/api/search/1/products?cloudfront=no
+        assignees:
+            - jordanpadams
+            - viviant100
+            - tloubrieu-jpl
+            - sjoshi-jpl
+        __dangerous__body_degraded: '"hits":0' # Note this value is super super specific right now as our system is partially loaded
+                                                     # we probably need to figure out a way to do some sort of range value here
+                                                     # e.g. hits < 2000000
     -
         name: planetarydata.org website
         url: https://planetarydata.org
