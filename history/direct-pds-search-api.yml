@@ -1,7 +1,7 @@
 url: https://pds.mcp.nasa.gov/api/search/1/products?cloudfront=no
-status: down
-code: 403
-responseTime: 162
-lastUpdated: 2025-03-02T17:40:43.202Z
+status: up
+code: 200
+responseTime: 11
+lastUpdated: 2025-03-02T17:46:37.097Z
 startTime: 2025-02-24T18:12:16.087Z
 generator: Upptime <https://github.com/upptime/upptime>
