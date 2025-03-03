@@ -24,7 +24,7 @@ sites:
         maxResponseTime: 5000
     -
         name: PDS Keyword Search and DOI Search (Legacy Registry)
-        url: https://pds.nasa.gov/services/search/search?wt=json&q=product_class:Product_Collection
+        url: https://pds.nasa.gov/services/search/search?wt=json&q=product_class:Product_Collection&cloudfront=no
         assignees:
             - jordanpadams
             - viviant100
@@ -79,7 +79,7 @@ sites:
         maxResponseTime: 5000
     -
         name: planetarydata.org website
-        url: https://planetarydata.org
+        url: https://planetarydata.org&cloudfront=no
         assignees:
             - jordanpadams
             - nutjob4life
