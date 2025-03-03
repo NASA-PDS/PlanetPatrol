@@ -79,7 +79,7 @@ sites:
         maxResponseTime: 5000
     -
         name: planetarydata.org website
-        url: https://planetarydata.org&cloudfront=no
+        url: https://planetarydata.org
         assignees:
             - jordanpadams
             - nutjob4life
