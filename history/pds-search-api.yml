@@ -1,7 +1,7 @@
 url: https://pds.nasa.gov/api/search/1/products?cloudfront=no
-status: down
+status: degraded
 code: 400
-responseTime: 317
-lastUpdated: 2025-07-05T23:14:21.546Z
+responseTime: 5081
+lastUpdated: 2025-07-06T16:25:10.106Z
 startTime: 2024-07-15T17:14:27.546Z
 generator: Upptime <https://github.com/upptime/upptime>
