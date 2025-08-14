@@ -1,7 +1,7 @@
 url: https://pds.nasa.gov/api/search/1/products
-status: up
+status: degraded
 code: 200
-responseTime: 4120
-lastUpdated: 2025-08-14T15:47:46.681Z
+responseTime: 17996
+lastUpdated: 2025-08-14T16:43:13.223Z
 startTime: 2024-07-15T17:14:27.546Z
 generator: Upptime <https://github.com/upptime/upptime>
