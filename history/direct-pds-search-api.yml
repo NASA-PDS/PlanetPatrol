@@ -1,7 +1,7 @@
 url: https://pds.mcp.nasa.gov/api/search/1/products
-status: degraded
+status: up
 code: 200
-responseTime: 8165
-lastUpdated: 2025-08-14T11:41:02.921Z
+responseTime: 2886
+lastUpdated: 2025-08-14T11:52:55.921Z
 startTime: 2025-02-24T18:12:16.087Z
 generator: Upptime <https://github.com/upptime/upptime>
