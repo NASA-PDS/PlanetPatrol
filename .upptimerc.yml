@@ -37,7 +37,7 @@ sites:
     maxResponseTime: 5000
 
   - name: PDS4 File System (System Bundle, Schemas, Context Products, etc.)
-    url: https://pds.nasa.gov/pds4/pds/v1/PDS4_PDS_1O00.xsd
+    url: https://pds.nasa.gov/data/pds4/
     assignees:
       - jordanpadams
       - viviant100
