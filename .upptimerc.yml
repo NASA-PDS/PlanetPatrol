@@ -12,6 +12,7 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
+
   - name: PDS Keyword Search and DOI Search (Legacy Registry)
     url: https://pds.nasa.gov/services/search/search?wt=json&q=product_class:Product_Collection&cloudfront=no
     assignees:
@@ -24,6 +25,7 @@ sites:
       - 200
     __dangerous__body_down: '"numFound":0'
     maxResponseTime: 5000
+
   - name: PDS Search API
     url: https://pds.nasa.gov/api/search/1/products
     assignees:
@@ -33,15 +35,19 @@ sites:
       - sjoshi-jpl
     __dangerous__body_degraded: '"hits":0'
     maxResponseTime: 5000
-  - name: Direct PDS Search API
-    url: https://pds.mcp.nasa.gov/api/search/1/products
+
+  - name: PDS4 File System (System Bundle, Schemas, Context Products, etc.)
+    url: https://pds.nasa.gov/pds4/pds/v1/PDS4_PDS_1O00.xsd
     assignees:
       - jordanpadams
       - viviant100
+      - c-suh
+      - rchenatjpl
       - tloubrieu-jpl
-      - sjoshi-jpl
-    __dangerous__body_degraded: '"hits":0'
+    expectedStatusCodes:
+      - 200
     maxResponseTime: 5000
+
   - name: planetarydata.org website
     url: https://planetarydata.org
     assignees:
