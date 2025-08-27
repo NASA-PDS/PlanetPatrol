@@ -54,6 +54,16 @@ sites:
       - jordanpadams
       - nutjob4life
     maxResponseTime: 5000
+
+  - name: pds-engineering.jpl.nasa.gov website
+    url: https://pds-engineering.jpl.nasa.gov
+    assignees:
+      - jordanpadams
+      - nutjob4life
+      - viviant100
+      - c-suh
+    maxResponseTime: 5000
+
 status-website:
   baseUrl: /PlanetPatrol
   logoUrl: https://raw.githubusercontent.com/NASA-PDS/PlanetPatrol/master/assets/PDS_Planets.png
