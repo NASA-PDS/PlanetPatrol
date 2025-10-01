@@ -1,7 +1,7 @@
 url: https://pds-engineering.jpl.nasa.gov
-status: up
+status: degraded
 code: 200
-responseTime: 352
-lastUpdated: 2025-09-30T23:13:24.688Z
+responseTime: 9721
+lastUpdated: 2025-10-01T18:14:09.428Z
 startTime: 2025-08-27T17:17:53.712Z
 generator: Upptime <https://github.com/upptime/upptime>
