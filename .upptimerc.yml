@@ -64,6 +64,17 @@ sites:
       - c-suh
     maxResponseTime: 5000
 
+  - name: Legacy pds.jpl.nasa.gov domain
+    url: https://pds.jpl.nasa.gov/
+    assignees:
+      - jordanpadams
+      - viviant100
+      - c-suh
+      - tloubrieu-jpl
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+
 status-website:
   baseUrl: /PlanetPatrol
   logoUrl: https://raw.githubusercontent.com/NASA-PDS/PlanetPatrol/master/assets/PDS_Planets.png
