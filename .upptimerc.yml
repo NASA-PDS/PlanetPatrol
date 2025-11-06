@@ -77,7 +77,7 @@ sites:
 
 status-website:
   baseUrl: /PlanetPatrol
-  logoUrl: https://raw.githubusercontent.com/NASA-PDS/PlanetPatrol/master/assets/PDS_Planets.png
+  logoUrl: https://raw.githubusercontent.com/NASA-PDS/PlanetPatrol/master/assets/image.png
   name: Planet Patrol
   introTitle: "**Planet Patrol** is a monitoring system for the Planetary Data System"
   introMessage: >
