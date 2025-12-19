@@ -34,7 +34,7 @@ sites:
       - tloubrieu-jpl
       - sjoshi-jpl
     __dangerous__body_degraded: '"hits":0'
-    maxResponseTime: 20000
+    maxResponseTime: 50000
 
   - name: PDS4 File System (System Bundle, Schemas, Context Products, etc.)
     url: https://pds.nasa.gov/data/pds4/
