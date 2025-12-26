@@ -1,7 +1,7 @@
 url: https://planetarydata.org
-status: up
+status: degraded
 code: 200
-responseTime: 4858
-lastUpdated: 2025-12-26T17:51:42.904Z
+responseTime: 5593
+lastUpdated: 2025-12-26T17:57:15.829Z
 startTime: 2025-02-06T18:05:12.362Z
 generator: Upptime <https://github.com/upptime/upptime>
