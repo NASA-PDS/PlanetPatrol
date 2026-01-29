@@ -45,9 +45,9 @@
     "slug": "pds-keyword-search-and-doi-search-legacy-registry",
     "status": "up",
     "uptime": "96.31%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "96.31%",
     "time": 588,
     "timeDay": 540,
@@ -55,7 +55,6 @@
     "timeMonth": 617,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2026-01-28": 8,
       "2026-01-24": 26,
       "2025-12-11": 32,
       "2025-10-04": 56,
@@ -134,7 +133,8 @@
       "2025-03-10": 15,
       "2025-03-02": 271,
       "2025-02-27": 33,
-      "2025-02-26": 88
+      "2025-02-26": 88,
+      "2025-02-25": 19
     }
   },
   {
