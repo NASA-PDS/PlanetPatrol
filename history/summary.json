@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 218,
-    "timeDay": 90,
-    "timeWeek": 158,
-    "timeMonth": 173,
-    "timeYear": 225,
+    "timeDay": 110,
+    "timeWeek": 160,
+    "timeMonth": 174,
+    "timeYear": 224,
     "dailyMinutesDown": {
       "2025-08-21": 64,
       "2025-03-26": 25,
@@ -25,8 +25,7 @@
       "2025-03-20": 17,
       "2025-03-17": 16,
       "2025-03-15": 18,
-      "2025-03-13": 18,
-      "2025-03-12": 20
+      "2025-03-13": 18
     }
   },
   {
@@ -35,15 +34,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pds.nasa.gov.ico",
     "slug": "pds-keyword-search-and-doi-search-legacy-registry",
     "status": "up",
-    "uptime": "97.15%",
+    "uptime": "97.16%",
     "uptimeDay": "98.48%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "97.16%",
+    "uptimeYear": "97.17%",
     "time": 568,
-    "timeDay": 698,
-    "timeWeek": 451,
-    "timeMonth": 392,
+    "timeDay": 627,
+    "timeWeek": 444,
+    "timeMonth": 394,
     "timeYear": 528,
     "dailyMinutesDown": {
       "2026-03-11": 22,
@@ -124,8 +123,7 @@
       "2025-03-17": 16,
       "2025-03-15": 18,
       "2025-03-14": 67,
-      "2025-03-13": 31,
-      "2025-03-12": 20
+      "2025-03-13": 31
     }
   },
   {
@@ -139,11 +137,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.66%",
-    "time": 3339,
-    "timeDay": 1013,
-    "timeWeek": 1002,
-    "timeMonth": 1139,
-    "timeYear": 4161,
+    "time": 3340,
+    "timeDay": 919,
+    "timeWeek": 1009,
+    "timeMonth": 1119,
+    "timeYear": 4162,
     "dailyMinutesDown": {
       "2026-01-03": 34,
       "2026-01-01": 74,
@@ -208,8 +206,7 @@
       "2025-03-20": 17,
       "2025-03-17": 16,
       "2025-03-15": 18,
-      "2025-03-13": 18,
-      "2025-03-12": 20
+      "2025-03-13": 18
     }
   },
   {
@@ -224,7 +221,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 17,
-    "timeDay": 5,
+    "timeDay": 6,
     "timeWeek": 10,
     "timeMonth": 9,
     "timeYear": 17,
@@ -241,11 +238,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "98.82%",
-    "time": 1661,
-    "timeDay": 501,
-    "timeWeek": 511,
-    "timeMonth": 504,
-    "timeYear": 1622,
+    "time": 1659,
+    "timeDay": 402,
+    "timeWeek": 519,
+    "timeMonth": 498,
+    "timeYear": 1621,
     "dailyMinutesDown": {
       "2026-03-02": 20,
       "2026-02-21": 31,
@@ -286,11 +283,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "98.39%",
-    "time": 981,
-    "timeDay": 704,
-    "timeWeek": 1218,
-    "timeMonth": 787,
-    "timeYear": 981,
+    "time": 979,
+    "timeDay": 461,
+    "timeWeek": 1222,
+    "timeMonth": 781,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2026-03-10": 29,
       "2026-03-02": 20,
@@ -319,11 +316,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.56%",
-    "time": 224,
-    "timeDay": 86,
-    "timeWeek": 158,
-    "timeMonth": 181,
-    "timeYear": 224,
+    "time": 223,
+    "timeDay": 95,
+    "timeWeek": 156,
+    "timeMonth": 176,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2025-10-23": 982,
       "2025-10-22": 1440,
