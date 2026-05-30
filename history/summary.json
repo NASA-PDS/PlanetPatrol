@@ -192,17 +192,17 @@
     "url": "https://planetarydata.org",
     "icon": "https://icons.duckduckgo.com/ip3/planetarydata.org.ico",
     "slug": "planetarydata-org-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.02%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.01%",
     "time": 1661,
-    "timeDay": 19454,
-    "timeWeek": 5286,
-    "timeMonth": 3181,
-    "timeYear": 1454,
+    "timeDay": 13124,
+    "timeWeek": 4750,
+    "timeMonth": 3107,
+    "timeYear": 1451,
     "dailyMinutesDown": {
       "2025-06-06": 47,
       "2025-07-07": 18,
@@ -222,7 +222,7 @@
       "2026-05-02": 115,
       "2026-05-05": 43,
       "2026-05-12": 39,
-      "2026-05-30": 2
+      "2026-05-30": 40
     }
   },
   {
@@ -230,17 +230,17 @@
     "url": "https://pds-engineering.jpl.nasa.gov",
     "icon": "https://icons.duckduckgo.com/ip3/pds-engineering.jpl.nasa.gov.ico",
     "slug": "pds-engineering-jpl-nasa-gov-website",
-    "status": "degraded",
-    "uptime": "98.80%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "98.80%",
-    "time": 1204,
-    "timeDay": 7711,
-    "timeWeek": 2469,
-    "timeMonth": 3423,
-    "timeYear": 1204,
+    "status": "up",
+    "uptime": "98.79%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "98.79%",
+    "time": 1202,
+    "timeDay": 5272,
+    "timeWeek": 2239,
+    "timeMonth": 3341,
+    "timeYear": 1202,
     "dailyMinutesDown": {
       "2025-08-27": 34,
       "2025-09-30": 19,
@@ -260,7 +260,7 @@
       "2026-05-02": 114,
       "2026-05-05": 42,
       "2026-05-12": 37,
-      "2026-05-30": 0
+      "2026-05-30": 38
     }
   },
   {
