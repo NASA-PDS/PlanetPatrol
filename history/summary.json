@@ -193,9 +193,9 @@
     "slug": "planetarydata-org-website",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "88.52%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "88.99%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "98.98%",
     "time": 1655,
     "timeDay": 439,
@@ -222,7 +222,7 @@
       "2026-05-05": 43,
       "2026-05-12": 39,
       "2026-05-30": 40,
-      "2026-06-02": 166
+      "2026-06-02": 159
     }
   },
   {
@@ -232,8 +232,8 @@
     "slug": "pds-engineering-jpl-nasa-gov-website",
     "status": "up",
     "uptime": "98.77%",
-    "uptimeDay": "89.53%",
-    "uptimeWeek": "98.13%",
+    "uptimeDay": "89.66%",
+    "uptimeWeek": "98.15%",
     "uptimeMonth": "99.39%",
     "uptimeYear": "98.77%",
     "time": 1190,
@@ -261,7 +261,7 @@
       "2026-05-05": 42,
       "2026-05-12": 37,
       "2026-05-30": 38,
-      "2026-06-02": 151
+      "2026-06-02": 149
     }
   },
   {
