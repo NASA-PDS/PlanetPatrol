@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pds.nasa.gov.ico",
     "slug": "pds-keyword-search-and-doi-search-legacy-registry",
     "status": "up",
-    "uptime": "97.99%",
+    "uptime": "98.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
@@ -36,7 +36,6 @@
     "timeMonth": 326,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2025-06-06": 19,
       "2025-06-08": 18,
       "2025-06-16": 31,
       "2025-06-19": 20,
@@ -99,7 +98,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pds.nasa.gov.ico",
     "slug": "pds-search-api",
     "status": "up",
-    "uptime": "88.24%",
+    "uptime": "88.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -191,18 +190,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/planetarydata.org.ico",
     "slug": "planetarydata-org-website",
     "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "83.45%",
-    "uptimeWeek": "91.50%",
-    "uptimeMonth": "97.96%",
+    "uptime": "98.96%",
+    "uptimeDay": "86.86%",
+    "uptimeWeek": "91.64%",
+    "uptimeMonth": "97.99%",
     "uptimeYear": "98.86%",
     "time": 1560,
-    "timeDay": 466,
+    "timeDay": 470,
     "timeWeek": 1727,
     "timeMonth": 1981,
     "timeYear": 1393,
     "dailyMinutesDown": {
-      "2025-06-06": 47,
       "2025-07-07": 18,
       "2025-08-07": 21,
       "2025-09-07": 31,
@@ -224,7 +222,7 @@
       "2026-06-02": 159,
       "2026-06-03": 180,
       "2026-06-04": 253,
-      "2026-06-05": 226
+      "2026-06-05": 212
     }
   },
   {
@@ -234,12 +232,12 @@
     "slug": "pds-engineering-jpl-nasa-gov-website",
     "status": "up",
     "uptime": "98.62%",
-    "uptimeDay": "83.50%",
-    "uptimeWeek": "91.63%",
-    "uptimeMonth": "97.99%",
+    "uptimeDay": "86.88%",
+    "uptimeWeek": "91.77%",
+    "uptimeMonth": "98.02%",
     "uptimeYear": "98.62%",
     "time": 1150,
-    "timeDay": 479,
+    "timeDay": 509,
     "timeWeek": 1012,
     "timeMonth": 1881,
     "timeYear": 1150,
@@ -266,7 +264,7 @@
       "2026-06-02": 149,
       "2026-06-03": 180,
       "2026-06-04": 252,
-      "2026-06-05": 226
+      "2026-06-05": 212
     }
   },
   {
