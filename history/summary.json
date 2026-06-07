@@ -13,8 +13,8 @@
     "time": 210,
     "timeDay": 103,
     "timeWeek": 114,
-    "timeMonth": 112,
-    "timeYear": 197,
+    "timeMonth": 114,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2025-08-21": 64
     }
@@ -33,8 +33,8 @@
     "time": 518,
     "timeDay": 310,
     "timeWeek": 205,
-    "timeMonth": 325,
-    "timeYear": 522,
+    "timeMonth": 324,
+    "timeYear": 523,
     "dailyMinutesDown": {
       "2025-06-08": 18,
       "2025-06-16": 31,
@@ -107,7 +107,7 @@
     "timeDay": 899,
     "timeWeek": 882,
     "timeMonth": 996,
-    "timeYear": 4574,
+    "timeYear": 4580,
     "dailyMinutesDown": {
       "2025-06-12": 40,
       "2025-07-04": 1424,
@@ -189,16 +189,16 @@
     "url": "https://planetarydata.org",
     "icon": "https://icons.duckduckgo.com/ip3/planetarydata.org.ico",
     "slug": "planetarydata-org-website",
-    "status": "down",
+    "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "94.45%",
-    "uptimeWeek": "87.75%",
-    "uptimeMonth": "97.00%",
-    "uptimeYear": "98.79%",
+    "uptimeDay": "92.77%",
+    "uptimeWeek": "87.51%",
+    "uptimeMonth": "96.95%",
+    "uptimeYear": "98.78%",
     "time": 1532,
-    "timeDay": 396,
-    "timeWeek": 594,
-    "timeMonth": 1699,
+    "timeDay": 389,
+    "timeWeek": 590,
+    "timeMonth": 1695,
     "timeYear": 1270,
     "dailyMinutesDown": {
       "2025-07-07": 18,
@@ -224,7 +224,7 @@
       "2026-06-04": 253,
       "2026-06-05": 212,
       "2026-06-06": 353,
-      "2026-06-07": 80
+      "2026-06-07": 104
     }
   },
   {
@@ -232,17 +232,17 @@
     "url": "https://pds-engineering.jpl.nasa.gov",
     "icon": "https://icons.duckduckgo.com/ip3/pds-engineering.jpl.nasa.gov.ico",
     "slug": "pds-engineering-jpl-nasa-gov-website",
-    "status": "down",
-    "uptime": "98.53%",
-    "uptimeDay": "94.50%",
-    "uptimeWeek": "87.89%",
-    "uptimeMonth": "97.04%",
-    "uptimeYear": "98.53%",
-    "time": 1204,
-    "timeDay": 429,
-    "timeWeek": 1236,
-    "timeMonth": 1990,
-    "timeYear": 1204,
+    "status": "up",
+    "uptime": "98.52%",
+    "uptimeDay": "92.81%",
+    "uptimeWeek": "87.65%",
+    "uptimeMonth": "96.99%",
+    "uptimeYear": "98.52%",
+    "time": 1202,
+    "timeDay": 466,
+    "timeWeek": 1221,
+    "timeMonth": 1988,
+    "timeYear": 1202,
     "dailyMinutesDown": {
       "2025-08-27": 34,
       "2025-09-30": 19,
@@ -268,7 +268,7 @@
       "2026-06-04": 252,
       "2026-06-05": 212,
       "2026-06-06": 351,
-      "2026-06-07": 79
+      "2026-06-07": 104
     }
   },
   {
@@ -285,7 +285,7 @@
     "time": 195,
     "timeDay": 102,
     "timeWeek": 155,
-    "timeMonth": 141,
+    "timeMonth": 140,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2025-10-23": 982,
