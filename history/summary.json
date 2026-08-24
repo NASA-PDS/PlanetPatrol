@@ -167,15 +167,15 @@
     "url": "https://pds-engineering.jpl.nasa.gov",
     "icon": "https://icons.duckduckgo.com/ip3/pds-engineering.jpl.nasa.gov.ico",
     "slug": "pds-engineering-jpl-nasa-gov-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.16%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.42%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "93.39%",
     "uptimeYear": "98.16%",
     "time": 1103,
-    "timeDay": 3660,
-    "timeWeek": 1873,
+    "timeDay": 2719,
+    "timeWeek": 1779,
     "timeMonth": 833,
     "timeYear": 1103,
     "dailyMinutesDown": {
@@ -215,7 +215,7 @@
       "2026-07-27": 27,
       "2026-08-05": 31,
       "2026-08-08": 62,
-      "2026-08-24": 0
+      "2026-08-24": 14
     }
   },
   {
