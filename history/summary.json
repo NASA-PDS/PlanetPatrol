@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 192,
     "timeDay": 132,
-    "timeWeek": 156,
+    "timeWeek": 168,
     "timeMonth": 130,
     "timeYear": 165,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "99.53%",
     "time": 484,
     "timeDay": 392,
-    "timeWeek": 400,
+    "timeWeek": 397,
     "timeMonth": 356,
     "timeYear": 464,
     "dailyMinutesDown": {
@@ -62,12 +62,12 @@
     "status": "up",
     "uptime": "89.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.47%",
+    "uptimeWeek": "97.49%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.75%",
     "time": 4367,
     "timeDay": 1127,
-    "timeWeek": 1170,
+    "timeWeek": 865,
     "timeMonth": 1244,
     "timeYear": 4303,
     "dailyMinutesDown": {
@@ -99,7 +99,7 @@
     "uptimeYear": "100.00%",
     "time": 26,
     "timeDay": 18,
-    "timeWeek": 83,
+    "timeWeek": 92,
     "timeMonth": 57,
     "timeYear": 26,
     "dailyMinutesDown": {}
@@ -109,17 +109,17 @@
     "url": "https://planetarydata.org",
     "icon": "https://icons.duckduckgo.com/ip3/planetarydata.org.ico",
     "slug": "planetarydata-org-website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.12%",
-    "time": 1216,
-    "timeDay": 671,
-    "timeWeek": 530,
-    "timeMonth": 498,
-    "timeYear": 1062,
+    "time": 1215,
+    "timeDay": 515,
+    "timeWeek": 517,
+    "timeMonth": 494,
+    "timeYear": 1061,
     "dailyMinutesDown": {
       "2025-09-07": 31,
       "2025-09-25": 877,
@@ -153,7 +153,8 @@
       "2026-07-28": 1440,
       "2026-07-27": 32,
       "2026-08-05": 31,
-      "2026-08-08": 62
+      "2026-08-08": 62,
+      "2026-09-03": 1
     }
   },
   {
@@ -161,17 +162,17 @@
     "url": "https://pds-engineering.jpl.nasa.gov",
     "icon": "https://icons.duckduckgo.com/ip3/pds-engineering.jpl.nasa.gov.ico",
     "slug": "pds-engineering-jpl-nasa-gov-website",
-    "status": "up",
+    "status": "down",
     "uptime": "98.21%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.18%",
-    "time": 1094,
-    "timeDay": 844,
-    "timeWeek": 661,
-    "timeMonth": 842,
-    "timeYear": 1103,
+    "time": 1093,
+    "timeDay": 531,
+    "timeWeek": 623,
+    "timeMonth": 827,
+    "timeYear": 1101,
     "dailyMinutesDown": {
       "2025-09-30": 19,
       "2025-10-01": 284,
@@ -207,7 +208,8 @@
       "2026-07-28": 1440,
       "2026-07-27": 27,
       "2026-08-05": 31,
-      "2026-08-08": 62
+      "2026-08-08": 62,
+      "2026-09-03": 0
     }
   },
   {
@@ -223,7 +225,7 @@
     "uptimeYear": "99.36%",
     "time": 197,
     "timeDay": 116,
-    "timeWeek": 223,
+    "timeWeek": 238,
     "timeMonth": 257,
     "timeYear": 197,
     "dailyMinutesDown": {
