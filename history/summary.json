@@ -13,7 +13,7 @@
     "time": 184,
     "timeDay": 161,
     "timeWeek": 115,
-    "timeMonth": 121,
+    "timeMonth": 123,
     "timeYear": 160,
     "dailyMinutesDown": {}
   },
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pds.nasa.gov.ico",
     "slug": "pds-keyword-search-and-doi-search-legacy-registry",
     "status": "up",
-    "uptime": "98.21%",
+    "uptime": "98.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -31,8 +31,8 @@
     "time": 481,
     "timeDay": 476,
     "timeWeek": 427,
-    "timeMonth": 386,
-    "timeYear": 428,
+    "timeMonth": 385,
+    "timeYear": 426,
     "dailyMinutesDown": {
       "2025-10-04": 56,
       "2025-10-03": 3,
@@ -56,17 +56,17 @@
     "url": "https://pds.nasa.gov/api/search/1/products",
     "icon": "https://icons.duckduckgo.com/ip3/pds.nasa.gov.ico",
     "slug": "pds-search-api",
-    "status": "up",
-    "uptime": "89.85%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "89.86%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.11%",
+    "uptimeMonth": "99.34%",
     "uptimeYear": "99.74%",
-    "time": 4354,
-    "timeDay": 624,
-    "timeWeek": 1259,
-    "timeMonth": 1317,
-    "timeYear": 4229,
+    "time": 4350,
+    "timeDay": 589,
+    "timeWeek": 1209,
+    "timeMonth": 1255,
+    "timeYear": 4222,
     "dailyMinutesDown": {
       "2025-10-10": 47,
       "2025-10-11": 64,
@@ -81,7 +81,8 @@
       "2026-07-29": 70,
       "2026-08-27": 103,
       "2026-08-28": 253,
-      "2026-09-11": 35
+      "2026-09-11": 35,
+      "2026-09-27": 0
     }
   },
   {
@@ -98,7 +99,7 @@
     "time": 26,
     "timeDay": 42,
     "timeWeek": 31,
-    "timeMonth": 41,
+    "timeMonth": 42,
     "timeYear": 26,
     "dailyMinutesDown": {}
   },
@@ -116,7 +117,7 @@
     "time": 1058,
     "timeDay": 557,
     "timeWeek": 577,
-    "timeMonth": 548,
+    "timeMonth": 550,
     "timeYear": 950,
     "dailyMinutesDown": {
       "2025-12-03": 992,
@@ -164,7 +165,7 @@
     "time": 1069,
     "timeDay": 707,
     "timeWeek": 702,
-    "timeMonth": 631,
+    "timeMonth": 635,
     "timeYear": 1098,
     "dailyMinutesDown": {
       "2025-09-30": 19,
@@ -218,7 +219,7 @@
     "time": 194,
     "timeDay": 189,
     "timeWeek": 150,
-    "timeMonth": 174,
+    "timeMonth": 176,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2025-10-23": 982,
