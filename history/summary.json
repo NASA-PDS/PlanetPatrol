@@ -54,17 +54,17 @@
     "url": "https://pds.nasa.gov/api/search/1/products",
     "icon": "https://icons.duckduckgo.com/ip3/pds.nasa.gov.ico",
     "slug": "pds-search-api",
-    "status": "up",
+    "status": "down",
     "uptime": "94.55%",
-    "uptimeDay": "68.59%",
-    "uptimeWeek": "95.34%",
-    "uptimeMonth": "98.85%",
+    "uptimeDay": "69.54%",
+    "uptimeWeek": "95.48%",
+    "uptimeMonth": "98.88%",
     "uptimeYear": "99.65%",
-    "time": 4068,
-    "timeDay": 2401,
-    "timeWeek": 2269,
-    "timeMonth": 1696,
-    "timeYear": 4142,
+    "time": 4046,
+    "timeDay": 2345,
+    "timeWeek": 2206,
+    "timeMonth": 1678,
+    "timeYear": 4136,
     "dailyMinutesDown": {
       "2025-10-10": 47,
       "2025-10-11": 64,
@@ -81,7 +81,7 @@
       "2026-08-28": 253,
       "2026-09-11": 35,
       "2026-10-08": 17,
-      "2026-10-09": 453
+      "2026-10-09": 439
     }
   },
   {
