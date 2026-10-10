@@ -55,18 +55,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pds.nasa.gov.ico",
     "slug": "pds-search-api",
     "status": "down",
-    "uptime": "94.76%",
-    "uptimeDay": "64.10%",
-    "uptimeWeek": "94.70%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "99.64%",
+    "uptime": "94.75%",
+    "uptimeDay": "60.90%",
+    "uptimeWeek": "94.24%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "99.63%",
     "time": 4012,
     "timeDay": 2104,
     "timeWeek": 2094,
     "timeMonth": 1672,
     "timeYear": 4109,
     "dailyMinutesDown": {
-      "2025-10-10": 47,
       "2025-10-11": 64,
       "2025-12-16": 20,
       "2025-12-17": 165,
@@ -81,7 +80,8 @@
       "2026-08-28": 253,
       "2026-09-11": 35,
       "2026-10-08": 17,
-      "2026-10-09": 517
+      "2026-10-09": 560,
+      "2026-10-10": 4
     }
   },
   {
