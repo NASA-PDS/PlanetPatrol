@@ -56,7 +56,7 @@
     "slug": "pds-search-api",
     "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "40.44%",
+    "uptimeDay": "40.72%",
     "uptimeWeek": "85.77%",
     "uptimeMonth": "96.64%",
     "uptimeYear": "99.48%",
@@ -66,7 +66,6 @@
     "timeMonth": 1483,
     "timeYear": 3827,
     "dailyMinutesDown": {
-      "2025-10-11": 64,
       "2025-12-16": 20,
       "2025-12-17": 165,
       "2025-12-18": 402,
