@@ -1,7 +1,7 @@
 url: https://pds.nasa.gov/api/search/1/products
-status: down
-code: 503
-responseTime: 84
-lastUpdated: 2026-10-12T17:01:13.815Z
+status: up
+code: 200
+responseTime: 2411
+lastUpdated: 2026-10-12T17:21:16.853Z
 startTime: 2024-07-15T17:14:27.546Z
 generator: Upptime <https://github.com/upptime/upptime>
