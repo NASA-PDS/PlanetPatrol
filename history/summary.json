@@ -107,17 +107,17 @@
     "url": "https://planetarydata.org",
     "icon": "https://icons.duckduckgo.com/ip3/planetarydata.org.ico",
     "slug": "planetarydata-org-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "98.62%",
     "time": 1086,
-    "timeDay": 49368,
-    "timeWeek": 7599,
-    "timeMonth": 2268,
-    "timeYear": 1054,
+    "timeDay": 25020,
+    "timeWeek": 6733,
+    "timeMonth": 2213,
+    "timeYear": 1053,
     "dailyMinutesDown": {
       "2025-12-03": 992,
       "2025-12-02": 51,
@@ -149,7 +149,7 @@
       "2026-08-05": 31,
       "2026-08-08": 62,
       "2026-11-07": 18,
-      "2026-11-17": 0
+      "2026-11-17": 5
     }
   },
   {
