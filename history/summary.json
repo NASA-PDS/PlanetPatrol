@@ -109,9 +109,9 @@
     "slug": "planetarydata-org-website",
     "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "98.62%",
     "time": 1086,
     "timeDay": 25020,
@@ -148,8 +148,7 @@
       "2026-07-27": 32,
       "2026-08-05": 31,
       "2026-08-08": 62,
-      "2026-11-07": 18,
-      "2026-11-17": 5
+      "2026-11-07": 18
     }
   },
   {
