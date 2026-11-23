@@ -13,6 +13,20 @@ sites:
       - 200
     maxResponseTime: 5000
 
+  - name: pds.mcp.nasa.gov website
+    url: https://pds.mcp.nasa.gov/?cloudfront=no
+    assignees:
+      - jordanpadams
+      - viviant100
+      - c-suh
+      - tloubrieu-jpl
+      - anilnatha
+      - eddiesarevalo
+      - nutjob4life
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+
   - name: PDS Keyword Search and DOI Search (Legacy Registry)
     url: https://pds.nasa.gov/services/search/search?wt=json&q=product_class:Product_Collection&cloudfront=no
     assignees:
